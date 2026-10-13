@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Superhéroes</string>
+    <string name="hero1">Nick el día y la noche</string>
+    <string name="description1">El héroe de Jetpack: protege la ciudad entre la luz y la oscuridad.</string>
+    <string name="hero2">Protector de la realidad</string>
+    <string name="description2">Comprende la verdad absoluta y ayuda a mantener el equilibrio.</string>
+    <string name="hero3">Andrés el gigante</string>
+    <string name="description3">Imita la luz y la noche para camuflarse cuando la ciudad lo necesita.</string>
+    <string name="hero4">Benjamín el valiente</string>
+    <string name="description4">Aprovecha la energía del canario para actuar con valentía.</string>
+    <string name="hero5">Maru la magnífica</string>
+    <string name="description5">Se desliza con facilidad para llegar justo a tiempo al rescate.</string>
+    <string name="hero6">Yasmine dinámica</string>
+    <string name="description6">Puede adoptar cualquier forma y transformar su energía.</string>
+    <string name="heroes_intro">Conoce a quienes salvan el día</string>
+    <string name="heroes_count">Seis héroes, una misión</string>
+</resources>
